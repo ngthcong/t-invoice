@@ -1,0 +1,9 @@
+{
+    "translations": {
+        "Welcome To <1>React</1>": "Welcome To My <1>React</1>",
+        "Click to increase":        "Click to increase",
+        "Current {{count}}":        "Current {{count}}",
+        "The count will be increased every {{second}} second(s)":"The count will be increased every {{second}} second(s)",
+        "Learn React":              "Learn React"
+    }
+}

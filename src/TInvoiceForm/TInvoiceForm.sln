@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TInvoiceForm", "TInvoiceForm\TInvoiceForm.csproj", "{BEA5B35F-5ECA-4C96-99F3-F376CE58A95D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TInvoiceFormFramework", "TInvoiceFormFramework\TInvoiceFormFramework.csproj", "{BE808988-4EF4-4D09-9380-BCFB9D4E0C03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEA5B35F-5ECA-4C96-99F3-F376CE58A95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA5B35F-5ECA-4C96-99F3-F376CE58A95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA5B35F-5ECA-4C96-99F3-F376CE58A95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA5B35F-5ECA-4C96-99F3-F376CE58A95D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE808988-4EF4-4D09-9380-BCFB9D4E0C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE808988-4EF4-4D09-9380-BCFB9D4E0C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE808988-4EF4-4D09-9380-BCFB9D4E0C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE808988-4EF4-4D09-9380-BCFB9D4E0C03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3C7B69E-8787-4BE0-9A9C-B0BC14617CF0}
+	EndGlobalSection
+EndGlobal

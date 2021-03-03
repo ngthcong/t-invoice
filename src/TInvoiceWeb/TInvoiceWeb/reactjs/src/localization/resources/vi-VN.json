@@ -1,0 +1,10 @@
+{
+    "translations": {
+        "Welcome To <1>React</1>": "Chào mừng đến với <1>React</1>",
+        "Click to increase":        "Nhấp để tăng",
+        "Current {{count}}":        "Hiện tại: {{count}}",
+        "The count will be increased every {{second}} second(s)":"Số đếm sẽ được tăng lên cứ mỗi {{second}} giây.",
+        "Learn React":              "Học thêm về React",
+        "Refresh":                  "Làm mới"
+    }
+}
